@@ -15,7 +15,7 @@ function checkParam(event){
     let param = event.currentTarget.value;
     console.log(param)
 }
-
+// Nouveau Test
 // function foundCity(event){
 
 //     window.fetch('https://api.meteo-concept.com/api/location/cities?token=5f38e5d29d73f8bcd10b6e437bdfb121284e80b8d104de17139fdfcb49c328a3&search='+param )
